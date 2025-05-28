@@ -1,0 +1,4 @@
+# Ignore files with extension .db and .log
+*.db
+*.log 
+
